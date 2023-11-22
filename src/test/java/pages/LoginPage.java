@@ -10,7 +10,7 @@ import java.util.Properties;
 
 public class LoginPage extends BasePageObject {
 
-    private String pageUrl = "https://pam-uat.roche.com/prm/security/login.xhtml";
+    private String pageUrl = "xxxxxxxxxxxx";
 
     private By userNameInput = By.id("username:username:username");
     private By passwordInput = By.id("password:password:password");
